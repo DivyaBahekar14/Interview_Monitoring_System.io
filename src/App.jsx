@@ -9,14 +9,6 @@ import InterviewerDashboard from './pages/InterviewerDashboard'
 import ReportsList from './pages/ReportsList'
 import FinalReport from './pages/FinalReport'
 
-
-
-
-
-
-
-
-
 function App() {
   return (
     <Router future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
