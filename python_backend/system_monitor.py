@@ -8,9 +8,6 @@ from threading import Lock, Thread
 from pynput import keyboard, mouse
 import pygetwindow as gw
 
-
-
-
 class SystemMonitor:
     """
     Monitors system-level activities:
