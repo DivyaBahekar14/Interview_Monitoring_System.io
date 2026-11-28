@@ -44,3 +44,10 @@ const MonitoringSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model("Monitoring", MonitoringSchema);
+
+
+
+
+
+
+
